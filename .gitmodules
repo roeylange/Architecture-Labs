@@ -1,0 +1,27 @@
+[submodule "architecture-labs/lab1"]
+	path = architecture-labs/lab1
+	url = https://github.com/roeylange/lab1
+[submodule "architecture-labs/lab2"]
+	path = architecture-labs/lab2
+	url = https://github.com/roeylange/lab2
+[submodule "architecture-labs/lab3"]
+	path = architecture-labs/lab3
+	url = https://github.com/roeylange/lab3
+[submodule "architecture-labs/lab4"]
+	path = architecture-labs/lab4
+	url = https://github.com/roeylange/lab4
+[submodule "architecture-labs/lab5"]
+	path = architecture-labs/lab5
+	url = https://github.com/roeylange/lab5
+[submodule "architecture-labs/lab6"]
+	path = architecture-labs/lab6
+	url = https://github.com/roeylange/lab6
+[submodule "architecture-labs/lab7"]
+	path = architecture-labs/lab7
+	url = https://github.com/roeylange/lab7
+[submodule "architecture-labs/lab8"]
+	path = architecture-labs/lab8
+	url = https://github.com/roeylange/lab8
+[submodule "architecture-labs/lab9"]
+	path = architecture-labs/lab9
+	url = https://github.com/roeylange/lab9
